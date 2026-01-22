@@ -7,7 +7,7 @@ from concurrent.futures import ThreadPoolExecutor
 
 executor = ThreadPoolExecutor(max_workers=1)
 
-TOKEN = "8503785532:AAEdPuukngcv3pdkMlf4pOWiQTC-iGYWzro"
+TOKEN = "***********"
 SHOP_URL = "https://bloxfruitshop.shop/"  # главная страница с товарами
 
 # ---------------- Функция покупки ----------------
